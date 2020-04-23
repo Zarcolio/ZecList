@@ -1,0 +1,3 @@
+http:http:example[.]com
+http:/example%252ecom
+///www.x.com@example.com
