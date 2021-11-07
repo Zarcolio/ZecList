@@ -1,2 +1,2 @@
 # ZecList
-Some lists I gathered an put together / improved
+Some lists I gathered and put together / improved
